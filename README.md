@@ -1,1 +1,1 @@
-# BAM-network
+# BAM Neural Network
